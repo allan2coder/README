@@ -13,7 +13,7 @@
       src="https://worldvectorlogo.com/logos/webpack.svg">
   </a>
   <h1><% Name %> Loader</h1>
-  <p><% Description %>><p>
+  <p><% Description %><p>
 </div>
 
 <h2 align="center">Install</h2>
